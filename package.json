@@ -1,0 +1,15 @@
+{
+  "name": "hbs-helper",
+  "version": "0.1.0",
+  "description": "hbs helper extension",
+  "main": "./lib/hbs-helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wilesun/hello1"
+  },
+  "author": "wm6run",
+  "license": "MIT"
+}
